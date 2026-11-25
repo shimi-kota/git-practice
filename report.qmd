@@ -13,4 +13,4 @@ Invented teaching data. Sales are measured in thousands of Japanese yen.
 
 ## Conclusion
 
-Q4 has the highest sales, and Q1 the lowest.
+Q4 has the highest sales (A).
